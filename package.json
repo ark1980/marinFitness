@@ -1,0 +1,23 @@
+{
+  "name": "marinfitness",
+  "version": "1.0.0",
+  "description": "marketing app for sending bulk emails to get feedback from clients",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ark1980/marinFitness.git"
+  },
+  "author": "Alireza Keshanian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ark1980/marinFitness/issues"
+  },
+  "homepage": "https://github.com/ark1980/marinFitness#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
