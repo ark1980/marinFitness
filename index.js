@@ -1,7 +1,7 @@
 const app = require('express')();
 
-app.get('/', (req,res) => {
-  res.json('Welcome, please signIn');
+app.get('/', (req, res) => {
+  res.json('Welcome, please come on in');
 });
 
 const PORT = process.env.PORT || 5000;
